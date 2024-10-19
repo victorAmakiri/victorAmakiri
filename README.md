@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @victorAmakiri
-- 👀 I’m interested in systems programming
-- 🌱 I’m currently learning C
-- 😄 Pronouns: He/Him
+- 👀 I’m interested in Building Web Solutions
+- 🌱 Javascript and TypeScript Engineer 
+- 😄 Pronouns: Him
 
 <!---
 victorAmakiri/victorAmakiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
